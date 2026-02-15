@@ -1,7 +1,24 @@
 {
-  "name": "reading-platform",
+  "name": "delve",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "An immersive reading platform with AI-powered text explanation, supporting EPUB, PDF, TXT, and Markdown formats",
+  "author": "lloyd-c137",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lloyd-c137/Delve.git"
+  },
+  "keywords": [
+    "reading",
+    "ai",
+    "epub",
+    "pdf",
+    "markdown",
+    "text-explanation",
+    "react",
+    "typescript"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
